@@ -1,5 +1,5 @@
-## Hello World, 
-## I'm Adi Muchamad Rafly, I am a beginner programmer 👋
+## Hi Everybody 👋 
+![alt text](image.png)
 
 <!--
 **raflyadi1125/raflyadi1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hello](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2pydmV0eDY3bGd0Zzl2cW44a2dpOGdqeXdoNjJpaDIyNGZrNzJmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif)
 - 🌱 I’m currently learning **python programming language**
+
+#### skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,py,cpp,js&perline=2)](https://skillicons.dev)
+
+#### social media
+
+![https://tiktok.com/incu.einstein](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+[![https://instagram.com/adiiimr._](https://skillicons.dev/icons?i=instagram,tiktok&perline=1)](https://skillicons.dev)
