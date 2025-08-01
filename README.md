@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 
 #### social media
 
-![https://tiktok.com/incu.einstein](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-
-[![https://instagram.com/adiiimr._](https://skillicons.dev/icons?i=instagram,tiktok&perline=1)](https://skillicons.dev)
+![https://instagram.com/adiiimr._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://tiktok.com/incu.einstein](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
