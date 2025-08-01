@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 #### social media
 
 ![https://www.instagram.com/adiiimr._/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://tiktok.com/incu.einstein](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+
+##### My github stats
+
+![adimr's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflyadi1125&show_icons=true&theme=radical)
